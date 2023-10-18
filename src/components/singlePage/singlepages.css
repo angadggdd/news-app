@@ -1,0 +1,46 @@
+main{
+    margin-top: 50px;
+}
+.details{
+    padding-right: 50px;
+}
+.details .title{
+    font-style: 40px;
+    line-height: 40px;
+    font-weight: 700;
+}
+.details .author{
+    display: flex;
+    align-items: center;
+    font-weight: 500;
+    margin: 20px 0;
+}
+.details .author p{
+    text-transform: capitalize;
+    margin-right: 10px;
+}
+.details .author img{
+    width: 50px;
+    height: 50px;
+    object-fit: contain;
+    border-radius: 50%;
+    margin: 0 10px;
+
+}
+.details .author label{
+    color: gray;
+}
+.details .socials{
+    display: flex;
+    margin-bottom: 20px;
+}
+.details .socBox{
+    margin-right: 20px;
+}
+.details img{
+    margin: 20px 0;
+
+}
+.desctop p{
+    margin: 20px 0;
+}

@@ -1,0 +1,26 @@
+.music .home{
+    margin-bottom: 30px;
+    margin-left: 2px;
+
+}
+.music .text{
+    padding: 0 30;
+}
+.music .images{
+    width: 200px;
+    height: 180px;
+}
+.music img{
+    width: 200px;
+    height: 180px;
+    object-fit: cover;
+    
+
+}
+.music h1{
+    font-size:15px;
+}
+
+.text{
+    padding: 10px;
+}

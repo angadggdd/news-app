@@ -1,0 +1,35 @@
+.tpost .box{
+    margin-bottom: 20px;
+}
+.tpost .img{
+    width: 100px;
+    height: 80px;
+}
+.tpost img{
+    width: 100px;
+    height: 80px;
+    object-fit: cover;
+
+}
+.tpost .text{
+    padding: 0 15px;
+}
+.tpost h1{
+    font-size: 10px;
+}
+.tpost span{
+    font-size: 8px;
+    color: gray;
+}
+
+@media screen and (max-width:800){
+    .tpost .img,.tpost img{
+        width: 100px;
+        height: 150px;
+    }
+    .tpost .text{
+        width: 100%;
+        text-align: center;
+    }
+    
+}
